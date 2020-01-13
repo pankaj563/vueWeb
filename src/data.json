@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "question": "What is React?",
+        "answer": "A JavaScript framework",
+        "options": {
+            "values": [
+                "A JavaScript framework",
+                "CSS preprocessor",
+                "Language that compiles to CoffeeScript"
+            ]
+        }
+    },
+    {
+        "id": "2",
+        "question": "Who made React?",
+        "answer": "Facebook",
+        "options": {
+            "values": [
+                "Google",
+                "Twitter",
+                "Facebook"
+            ]
+        }
+    },
+    {
+        "id": "3",
+        "question": "What is React used for?",
+        "answer": "Building web apps",
+        "options": {
+            "values": [
+                "Adding variables to CSS",
+                "Building web apps",
+                "Making websites cloud-ready"
+            ]
+        }
+    },
+    {
+        "id": "4",
+        "question": "What is special about React?",
+        "answer": "Virtual DOM",
+        "options": {
+            "values": [
+                "It brings HTML6 features to today's browsers",
+                "Virtual DOM",
+                "Database integration"
+            ]
+        }
+    },
+    {
+        "id": "5",
+        "question": "What is special Angular",
+        "answer": "Component based",
+        "options": {
+            "values": [
+                "Component based",
+                "file basesd",
+                "Controller based"
+            ]
+        }
+    },
+    {
+        "id": "6",
+        "question": "What is Angular",
+        "answer": "JavaScript framework",
+        "options": {
+            "values": [
+                "library",
+                "JavaScript framework",
+                "sample code"
+            ]
+        }
+    }
+]
