@@ -4,7 +4,7 @@ import Router from "vue-router";
 
 import LoginFront from "./components/Login/index";
 import Signup from "./components/Signup/index";
-import Dashboard from "./components/Dashboard/index";
+import Dashboard from "./components/Dashboard/dashboadlayout";
 
 //-----Not Found
 import NotFound from "./components/NotFound";
